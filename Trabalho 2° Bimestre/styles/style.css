@@ -1,0 +1,197 @@
+.div1{
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    text-align:center;
+    font-weight: bold;   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid black;
+
+}
+
+
+.a1{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:62px;
+    left: 300px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold;
+   border-radius: 10px;
+}
+
+.a2{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:62px;
+    left: 550px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+}
+.a3{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:62px;
+    left: 800px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+
+}
+.a4{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:124px;
+    left: 300px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold;
+   border-radius: 10px;
+
+}
+.a5{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:124px;
+    left: 550px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+}
+.a6{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:124px;
+    left: 800px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+
+}
+.a7{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:188px;
+    left: 300px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold;
+   border-radius: 10px;
+
+}
+.a8{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:188px;
+    left: 550px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px; 
+
+}
+.a9{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:188px;
+    left: 800px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+}
+.a10{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:250px;
+    left: 300px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold;
+   border-radius: 10px;
+}
+.a11{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:250px;
+    left: 550px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px; 
+}
+.a12{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:250px;
+    left: 800px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px;  
+}
+.a13{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:312px;
+    left: 420px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold;
+   border-radius: 10px;
+
+}
+.a14{
+    position: absolute;
+    text-align:center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top:312px;
+    left: 670px;
+    width: 17%;
+    height: 55px;
+    font-weight: bold; 
+    border-radius: 10px; 
+}
+
+.fundo{
+    background-color: rgb(29, 30, 29);
+}
+
